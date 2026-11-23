@@ -1,0 +1,2 @@
+# .gitignore · I file che Git non deve vedere.
+# (es. .env, .venv, __pycache__)

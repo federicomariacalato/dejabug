@@ -1,0 +1,2 @@
+# requirements.txt · La lista delle librerie.
+# Chi scarica il progetto le installa con un comando.
