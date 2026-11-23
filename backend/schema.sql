@@ -1,0 +1,2 @@
+-- schema.sql · Le tabelle del database.
+-- La fonte vera: se c'è un dubbio, comanda lui.
