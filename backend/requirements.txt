@@ -1,2 +1,10 @@
 # requirements.txt · La lista delle librerie.
 # Chi scarica il progetto le installa con un comando.
+
+fastapi[standard]==0.165.0     # API, server di sviluppo e validazione con Pydantic
+sqlalchemy==2.1.9              # collegamento al database da Python
+psycopg[binary]==3.3.9         # driver di PostgreSQL
+pydantic-settings==2.16.3      # legge le impostazioni dal file .env
+pwdlib[argon2]==0.4.2          # hash delle password con argon2
+pyjwt==2.15.1                  # token JWT per il login
+pytest==9.2.0                  # test
