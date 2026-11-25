@@ -1,2 +1,16 @@
 # .gitignore · I file che Git non deve vedere.
 # (es. .env, .venv, __pycache__)
+
+# Segreti: le impostazioni vere restano solo sul tuo computer
+.env
+
+# Ambiente virtuale di Python
+.venv/
+
+# File generati da Python e da pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# File di sistema di macOS
+.DS_Store
